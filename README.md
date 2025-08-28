@@ -55,7 +55,7 @@ Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable
 | Decision Tree | 0.81 | 0.65 | 0.52 | 0.84 |
 
 
-![Matrix de Confusão](./matrix.png)
+![Matrix de Confusão](./Matrix.png)
 
 
 🚀 Conclusion
