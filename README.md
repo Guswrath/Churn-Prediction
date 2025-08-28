@@ -134,23 +134,7 @@ Ambos os modelos apresentaram boa capacidade de separação (AUC 0.84 – 0.86).
 O recall foi moderado no threshold padrão (0.5).
 Ajustando o threshold (ex: 0.3), é possível aumentar recall, o que pode ser mais adequado em churn prediction.
 
-![Curva Roc:](./image.png)
 
-<br>
-<br>
-
-
-## 📈 Principais Resultados
-
-| Model | Accuracy | Precision | Recall | AUC |
-|:---:|:---:|:---:|:---:|:---:|
-| Logistic Regression | 0.82 | 0.69 | 0.60 | 0.86 |
-| Decision Tree | 0.81 | 0.65 | 0.52 | 0.84 |
-
-<br>
-<br>
-
-![Matrix de Confusão](./Matrix.png)
 
 ### Conclusão
 
