@@ -44,7 +44,7 @@ Recall was moderate at the default threshold (0.5).
 Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable for churn prediction.
 
 
-![Curva Roc:](./image.png
+![Curva Roc:](./image.png)
 
 <br>
 <br>
