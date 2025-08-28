@@ -1,6 +1,6 @@
 # Churn Prediction
 
-###📌 Project Description
+### 📌 Project Description
 
 This project aims to predict customer churn (contract cancellation) using the public Telco Customer Churn dataset from Kaggle.
 
@@ -11,7 +11,7 @@ Decision Tree
 
 The main goal is to evaluate their performance using standard classification metrics and provide recommendations for real-world business scenarios.
 
-###⚡ Business Objective
+### ⚡ Business Objective
 
 Telecom companies face high customer churn rates.
 A predictive model can help:
@@ -134,14 +134,23 @@ Ambos os modelos apresentaram boa capacidade de separação (AUC 0.84 – 0.86).
 O recall foi moderado no threshold padrão (0.5).
 Ajustando o threshold (ex: 0.3), é possível aumentar recall, o que pode ser mais adequado em churn prediction.
 
+![Curva Roc:](./image.png)
+
+<br>
+<br>
 
 
 ## 📈 Principais Resultados
 
-Modelo	Acurácia	Precisão	Recall	AUC
-Regressão Logística	0.82	0.69	0.60	0.86
-Árvore de Decisão	0.81	0.65	0.52	0.84
+| Model | Accuracy | Precision | Recall | AUC |
+|:---:|:---:|:---:|:---:|:---:|
+| Logistic Regression | 0.82 | 0.69 | 0.60 | 0.86 |
+| Decision Tree | 0.81 | 0.65 | 0.52 | 0.84 |
 
+<br>
+<br>
+
+![Matrix de Confusão](./Matrix.png)
 
 ### Conclusão
 
