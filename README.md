@@ -140,7 +140,7 @@ Ajustando o threshold (ex: 0.3), é possível aumentar recall, o que pode ser ma
 <br>
 <br>
 
-## 📈 Key Results
+## 📈 Resultados
 
 | Model | Accuracy | Precision | Recall | AUC |
 |:---:|:---:|:---:|:---:|:---:|
