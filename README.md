@@ -47,6 +47,11 @@ Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable
 
 📈 Key Results
 
+| Model | Accuracy | Precision | Recall | AUC |
+|:---:|:---:|:---:|:---:|:---:|
+| Logistic Regression | 0.82 | 0.69 | 0.60 | 0.86 |
+| Decision Tree | 0.81 | 0.65 | 0.52 | 0.84 |
+
 Model	Accuracy	Precision	Recall	AUC
 Logistic Regression	0.82	0.69	0.60	0.86
 Decision Tree	0.81	0.65	0.52	0.84
