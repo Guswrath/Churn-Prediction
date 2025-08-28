@@ -43,7 +43,7 @@ Both models achieved good separation ability (AUC 0.84 – 0.86).
 Recall was moderate at the default threshold (0.5).
 Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable for churn prediction.
 
-!(https://github.com/Guswrath/Churn-Prediction/blob/main/image.png)
+!(./image.png)
 
 📈 Key Results
 
