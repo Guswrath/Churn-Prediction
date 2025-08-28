@@ -46,6 +46,8 @@ Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable
 
 ![Curva Roc:](./image.png)
 
+<br>
+<br>
 
 📈 Key Results
 
@@ -54,6 +56,8 @@ Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable
 | Logistic Regression | 0.82 | 0.69 | 0.60 | 0.86 |
 | Decision Tree | 0.81 | 0.65 | 0.52 | 0.84 |
 
+<br>
+<br>
 
 ![Matrix de Confusão](./Matrix.png)
 
