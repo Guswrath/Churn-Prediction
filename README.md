@@ -59,7 +59,7 @@ Adjusting the threshold (e.g., 0.3) increases recall, which may be more suitable
 <br>
 <br>
 
-![Matrix de Confusão](./Matrix.png)
+![Matrix de Confusão](./Matrix.png
 
 
 ### Conclusion
